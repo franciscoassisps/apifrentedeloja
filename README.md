@@ -1,4 +1,7 @@
+<div align="center">
 <h1>Projeto Frente-de-Loja</h1> 
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
