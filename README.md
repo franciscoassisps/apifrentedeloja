@@ -1,2 +1,2 @@
 # testeSemantix
-criação de um sitema gerenciador de processos de uma loja
+criação de um sistema gerenciador de processos de uma loja
