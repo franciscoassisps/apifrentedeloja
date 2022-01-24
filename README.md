@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Testes da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -45,14 +45,36 @@ O gerente de projetos conversou com as partes interessadas e levantou o seguinte
 :heavy_check_mark: A quantidade em estoque de um produto deve ser subtraída na efetivação de uma compra.
 :heavy_check_mark: O cliente deve ter no mínimo as seguintes propriedades: nome, telefone e email.
 :heavy_check_mark: O produto deve conter as seguintes propriedades: nome, quantidade em estoque e preço.
-## Layout ou Deploy da Aplicação :dash:
 
-... <div align="center">
-<img src="![codigo](https://user-images.githubusercontent.com/34630139/150847290-cba85574-88be-43c1-a9a6-4b0147f68cbd.PNG)
-" />
+## Layout da Aplicação
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34630139/150847839-f7c07504-8887-454c-b1f7-1ac510dc738c.PNG" width="700px" />
 </div>
 
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+### clientes
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34630139/150848392-3f826d26-0eeb-47e1-a927-1576586d7485.PNG" width="700px" />
+</div>
+<div align="center">
+<img src="" width="700px" />
+</div>
+
+### produtos
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34630139/150848442-2a434a18-8e82-4d2c-a0a9-302c52d6d772.PNG" width="700px" />
+</div>
+
+### compra
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34630139/150848416-03448179-9628-4675-84a7-523e10e88d0e.PNG" width="700px" />
+</div>
+
+### tabela
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34630139/150848473-21d660aa-674d-423a-823b-b72f11814bb5.PNG" width="700px" />
+</div>
+
 
 ## Pré-requisitos
 
