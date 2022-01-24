@@ -48,7 +48,8 @@ O gerente de projetos conversou com as partes interessadas e levantou o seguinte
 ## Layout ou Deploy da Aplicação :dash:
 
 ... <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="![codigo](https://user-images.githubusercontent.com/34630139/150847290-cba85574-88be-43c1-a9a6-4b0147f68cbd.PNG)
+" />
 </div>
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
