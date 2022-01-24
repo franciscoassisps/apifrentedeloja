@@ -28,8 +28,6 @@
 
 ... 
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto 
 
 <p align="justify">
@@ -49,7 +47,9 @@ O gerente de projetos conversou com as partes interessadas e levantou o seguinte
 :heavy_check_mark: O produto deve conter as seguintes propriedades: nome, quantidade em estoque e preço.
 ## Layout ou Deploy da Aplicação :dash:
 
-... 
+... <div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
@@ -94,7 +94,6 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 ## Desenvolvedores/Contribuintes :octocat:
 
 Francisco de Assis
-| :---: | :---: | :---: 
 
 ## Licença 
 
