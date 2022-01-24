@@ -70,7 +70,7 @@ O gerente de projetos conversou com as partes interessadas e levantou o seguinte
 <img src="https://user-images.githubusercontent.com/34630139/150848416-03448179-9628-4675-84a7-523e10e88d0e.PNG" width="700px" />
 </div>
 
-### tabela
+### tabelas
 <div align="center">
 <img src="https://user-images.githubusercontent.com/34630139/150848473-21d660aa-674d-423a-823b-b72f11814bb5.PNG" width="700px" />
 </div>
