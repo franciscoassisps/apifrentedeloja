@@ -17,7 +17,7 @@
   
 </p>
 
-> Concluído em sua maioria: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Concluído em sua maioria: :heavy_check_mark: :warning:
 
 ### Tópicos 
 
