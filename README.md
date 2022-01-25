@@ -98,7 +98,7 @@ O gerente de projetos conversou com as partes interessadas e levantou o seguinte
 No terminal, clone o projeto:
 git clone https://github.com/franciscoassisps/testeFrenteDeLoja.git
 Instale as dependencias com o gerenciador de pacotes _npm install_ 
-sobe a exteção do banco xammp mysql e apache (as configuraçoes estao no aquivo app.modules.ts)
+sobe a extenção do banco xammp mysql e apache (as configuraçoes estao no aquivo app.modules.ts)
 suba o projeto _npm run start_, verifique se foi gerada as tabelas
 Abra o postman e execute os metodos com as respectivas urls:
 ```
