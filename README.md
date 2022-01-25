@@ -101,10 +101,12 @@ Instale as dependencias com o gerenciador de pacotes _npm install_
 sobe a exteção do banco xammp mysql e apache (as configuraçoes estao no aquivo app.modules.ts)
 suba o projeto _npm run start_, verifique se foi gerada as tabelas
 Abra o postman e execute os metodos com as respectivas urls:
+```
 http://localhost:3000/clientes
 http://localhost:3000/produtos
 http://localhost:3000/compra
 
+```
 
 ... 
 
